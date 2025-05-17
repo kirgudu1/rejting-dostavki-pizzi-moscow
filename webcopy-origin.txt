@@ -1,0 +1,48 @@
+Uri: http://pizza_new.ru/
+File Name: C:\Downloaded Web Sites\pizza_new.ru\index.htm
+Content Type: text/html
+
+Uri: http://pizza_new.ru/about.php
+File Name: C:\Downloaded Web Sites\pizza_new.ru\about.php.html
+Content Type: text/html
+
+Uri: http://pizza_new.ru/logo.png
+File Name: C:\Downloaded Web Sites\pizza_new.ru\logo.png
+Content Type: image/png
+
+Uri: http://pizza_new.ru/privacy.html
+File Name: C:\Downloaded Web Sites\pizza_new.ru\privacy.html
+Content Type: text/html
+
+Uri: http://pizza_new.ru/scripts.js
+File Name: C:\Downloaded Web Sites\pizza_new.ru\scripts.js
+Content Type: application/javascript
+
+Uri: http://pizza_new.ru/scripts_faq.js
+File Name: C:\Downloaded Web Sites\pizza_new.ru\scripts_faq.js
+Content Type: application/javascript
+
+Uri: http://pizza_new.ru/styles.css
+File Name: C:\Downloaded Web Sites\pizza_new.ru\styles.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap
+File Name: C:\Downloaded Web Sites\pizza_new.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\pizza_new.ru\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/101944050
+File Name: C:\Downloaded Web Sites\pizza_new.ru\watch\101944050
+Content Type: image/gif
+
+Uri: https://www.transparenttextures.com/patterns/asfalt-light.png
+File Name: C:\Downloaded Web Sites\pizza_new.ru\patterns\asfalt-light.png
+Content Type: image/png
+
+Uri: https://www.transparenttextures.com/patterns/cubes.png
+File Name: C:\Downloaded Web Sites\pizza_new.ru\patterns\cubes.png
+Content Type: image/png
+
